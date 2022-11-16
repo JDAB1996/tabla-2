@@ -1,4 +1,4 @@
-,Tiempo (horas,n),Poblacion(Pn)
+,Tiempo,Poblacion
 0,0,9.6
 1,1,18.3
 2,2,29.0
